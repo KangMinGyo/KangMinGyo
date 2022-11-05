@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang15567@kakao.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangMinGyo&show_icons=true&theme=radical)
 
 <!--
 **KangMinGyo/KangMinGyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
