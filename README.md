@@ -29,6 +29,15 @@
   
 <br/><br/><br/>
 
+### 🏆 Awards 🏆
+
+| 부경대학교 컴퓨터공학부 컴퓨터 S/W경진대회 | 2022.05.25 | 동상               | 부경대학교 컴퓨터공학부 |
+|--------------------------------------------|------------|--------------------|-------------------------|
+| 2020 산업융합 아이디어 사업화 해커톤       | 2020.09.17 | 우수상             | 한국생산기술연구원      |
+| 제 7회 K-Hackathon                         | 2019.11.01 | 한국콘텐츠학회장상 | 한국콘텐츠학회          |
+
+<br/><br/><br/>
+
 ### 😼 My GitHub Stats 😼
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KangMinGyo&show_icons=false&bg_color=00000000&&title_color=ffb24d&text_color=000000">
